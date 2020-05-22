@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+    id "io.freefair.lombok" version "5.0.1"
+}
+
+group 'org.code'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation('org.junit.jupiter:junit-jupiter:5.4.0')
+    testImplementation('org.hamcrest:hamcrest:2.2')
+}
+
+test {
+    // Enable JUnit 5 (Gradle 4.6+).
+    useJUnitPlatform()
+
+    // Always run tests, even when nothing changed.
+    dependsOn 'cleanTest'
+
+    // Show test results.
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}

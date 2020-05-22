@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="my.algo.sol.graph.digraph.townjudge.TownJudgeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-05-20T04:37:14" hostname="LAPTOP-R3RU7QQ9" time="0.038">
+  <properties/>
+  <testcase name="runWithTestData1()" classname="my.algo.sol.graph.digraph.townjudge.TownJudgeTest" time="0.022"/>
+  <testcase name="runWithTestData2()" classname="my.algo.sol.graph.digraph.townjudge.TownJudgeTest" time="0.004"/>
+  <testcase name="runWithTestData3()" classname="my.algo.sol.graph.digraph.townjudge.TownJudgeTest" time="0.002"/>
+  <testcase name="runWithTestData4()" classname="my.algo.sol.graph.digraph.townjudge.TownJudgeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
