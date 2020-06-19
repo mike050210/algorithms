@@ -2,6 +2,9 @@
 This repository contains the implementations of discussed algorithms by the 
 Algorithms Club.
 
+## Algorithms List
+* Closest Smaller Number
+
 ## Getting Started
 
 ### Prerequisites:
