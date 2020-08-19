@@ -12,8 +12,13 @@ Algorithms Club.
 * The IDE of your preference.
 
 ### Installing
-1. Clone this project with 
-`$ git clone https://github.com/raja-checkin/algorithms`.
+1. Clone this project with: 
+
+   `$ git clone git@git.epam.com:luis_banda/mx-algorithm-java.git` 
+
+   or
+ 
+   `$ git clone https://git.epam.com/luis_banda/mx-algorithm-java.git`.
 
 2. Import the project into your IDE and  let gradle import the dependencies.
 
@@ -22,14 +27,5 @@ implement your solution using the language that you prefer.
 
 ## Authors
 * Raja Paulpandian
-* Luis Banda
-* Víctor Bucio
-* Pablo Ramírez
-* Eric Mosqueda
-* Laura Rodríguez
 * Miguel Osorio
-
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for 
-details.
+* Joan Martinez
