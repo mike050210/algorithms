@@ -4,7 +4,7 @@ fun main() {
 
     val originalArray = intArrayOf(33, 24, 12, 2, 5, 4, 3, 9, 24, 20, 3, 1, 54, 23, 11, 12, 44, 1, 23, 3, 1, 44, 3, 78, 2)
     println(ClosestSmallerNumber().findClosestSmallerNumber(originalArray).asList())
-    // println(ClosestSmallerNumber().findClosestSmallerNumberImproved(originalArray).asList())
+    println(ClosestSmallerNumber().findClosestSmallerNumberImproved(originalArray).asList())
 }
 
 class ClosestSmallerNumber {
